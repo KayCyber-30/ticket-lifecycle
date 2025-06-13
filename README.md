@@ -27,4 +27,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+- Intake
+
+Intake  refers to the initial step where a user's issue or request is submitted and logged into the system, typically through a web form, email, or phone call, creating a new support ticket.
+
 ![image](https://github.com/user-attachments/assets/b2f1e63d-37e0-408d-8320-46a7861a31ce)
+
