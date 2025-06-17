@@ -1,61 +1,83 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+# osTicket - Ticket Lifecycle: Intake Through Resolution
 
+This tutorial outlines the lifecycle of a support ticket from **intake** to **resolution** within the open-source help desk ticketing system **osTicket**. Understanding this flow is essential for effective support operations and SLA management.
 
+---
 
-
-<h2>Environments and Technologies Used</h2>
+## 🧰 Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Protocol (RDP)
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+---
 
-- Windows 10</b> (21H2)
+## 💻 Operating System Used
 
-<h2>Ticket Lifecycle Stages</h2>
+- Windows 10 (21H2)
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+---
 
-<h2>Lifecycle Stages</h2>
+## 🔄 Ticket Lifecycle Stages
 
-- Intake
+1. Intake  
+2. Assignment and Communication  
+3. Working the Issue  
+4. Resolution
 
-Intake  refers to the initial step where a user's issue or request is submitted and logged into the system, typically through a web form, email, or phone call, creating a new support ticket.
+---
 
-![image](https://github.com/user-attachments/assets/b2f1e63d-37e0-408d-8320-46a7861a31ce)
+## 🧩 Lifecycle Details
 
- - Assignment and Communication
+### 1. Intake
 
-  
-  Assignment and Communication in ticketing refers to the process of directing the ticket to the appropriate support personnel or department and initiating clear communication with the user. This ensures the issue is being handled by the right person and that the user is kept informed about the status and next steps.
+**Intake** refers to the initial step where a user's issue or request is submitted and logged into the system—typically through a web form, email, or phone call—creating a new support ticket.
 
-  ![image](https://github.com/user-attachments/assets/e84bf5b1-11f3-4293-8ddf-2b9cbe73a6b2)
+![Intake](https://github.com/user-attachments/assets/b2f1e63d-37e0-408d-8320-46a7861a31ce)
 
-- Working the Issue
+---
 
-Working the Issue refers to the active phase of troubleshooting and resolving the problem described in the ticket. It involves investigating the root cause, applying fixes, documenting steps taken, and updating the ticket with progress until a solution is found.
-  
-  ![image](https://github.com/user-attachments/assets/6f83a818-19b1-4d4b-9909-c1299aded471)
+### 2. Assignment and Communication
 
-  - Resolution
+**Assignment and Communication** involve directing the ticket to the appropriate support personnel or department and initiating clear communication with the user. This ensures the issue is being handled by the right person and that the user is kept informed about status updates.
 
-    Resolution is the final phase where the issue is successfully resolved, the solution is communicated to the user, and the ticket is closed. It may also include documenting the fix for future reference and confirming user satisfaction.
+![Assignment](https://github.com/user-attachments/assets/e84bf5b1-11f3-4293-8ddf-2b9cbe73a6b2)
 
-![image](https://github.com/user-attachments/assets/900d81b8-9971-4f25-89a5-47ae241e9328)
+---
 
+### 3. Working the Issue
 
+**Working the Issue** refers to the active phase of troubleshooting and resolving the problem described in the ticket. It involves:
+- Investigating the root cause
+- Applying fixes or escalations
+- Documenting steps taken
+- Updating the ticket with progress until a solution is reached
 
+![Working](https://github.com/user-attachments/assets/6f83a818-19b1-4d4b-9909-c1299aded471)
 
+---
 
+### 4. Resolution
 
+**Resolution** is the final phase where:
+- The issue is successfully resolved
+- The solution is communicated to the user
+- The ticket is closed
 
+This may also include:
+- Documenting the fix for future reference
+- Confirming satisfaction with the user
 
+![Resolution](https://github.com/user-attachments/assets/900d81b8-9971-4f25-89a5-47ae241e9328)
+
+---
+
+## ✅ Summary
+
+The ticket lifecycle is crucial for managing support efficiency, tracking SLAs, and ensuring a positive user experience. Proper handling at each phase—especially communication and documentation—improves resolution time and builds trust between users and support teams.
+
+---
